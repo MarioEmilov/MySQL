@@ -84,3 +84,7 @@ ________________________________________________________________
 
 After that I received this Certificate:
 --------------------------------------------------
+
+![MySQL - January 2022 - Certificate](https://user-images.githubusercontent.com/88974458/154125674-b5241a1f-530f-44b6-ae60-d231277f2630.jpeg)
+
+
